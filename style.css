@@ -1,0 +1,97 @@
+.ustDiv {
+    background-color: #7eba28;
+    height: 40px;
+    width: 1590spx;
+}
+
+.menuDiv {
+    width: 80%;
+    width: auto;
+    position: fixed;
+    top: 5px;
+}
+
+.menuDiv ul {
+    list-style-type: none;
+}
+
+ul li {
+    float: left;
+    margin-left: 15px;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    color: rgb(247, 6, 247);
+}
+
+.bannerDiv {
+    width: 80%;
+    height: 130px;
+    border: 2px solid black;
+    position: fixed;
+    left: 150px;
+}
+
+.bannerDiv img {
+    width: 80%;
+    height: 130px;
+}
+
+.icerikDiv {
+    width: 80%;
+    height: auto;
+    border: 2px solid black;
+    position: fixed;
+    top: 190px;
+    left: 150px;
+    padding: 5px;
+}
+
+.icerikDiv img {
+    width: 80%;
+    margin-left: 170px;
+}
+
+.icerikDiv #img2 {
+    width: 80%;
+    border: 2px solid black;
+    border-radius: 15px 0px 15px 0px;
+}
+
+.tablo table {
+    height: 100px;
+    width: 500px;
+}
+
+.tablo table thead tr td {
+    background-color: black;
+    color: white;
+}
+
+.tablo2 tbody button {
+    position: relative;
+    left: 210px;
+}
+
+.tablo2 tbody #mesajKutusu {
+    height: 80px;
+}
+
+.yazilar {
+    font-family: 'Rubik Bubbles', cursive;
+    font-size: 25px;
+}
+
+.yazilar #kirmiziRenk {
+    color: red;
+}
+
+.yazilar #yazilar2 {
+    color: black;
+    text-decoration: underline;
+}
